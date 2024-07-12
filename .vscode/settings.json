@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3796bf55-185b-42f4-b20c-45fb76e84131/resourceGroups/new_app_rg/providers/Microsoft.Web/sites/catlogapp"
+}
